@@ -10,7 +10,7 @@
   "entrypoints": {
     "client": ["dev.lokyclient.LokyClient"]
   },
-  "mixins": ["lokyclient.mixins.json"],
+  "mixins": ["modid.mixins.json"],
   "depends": {
     "fabricloader": ">=0.16.0",
     "fabric-api": "*",
